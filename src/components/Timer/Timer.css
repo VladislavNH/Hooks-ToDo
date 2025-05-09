@@ -1,0 +1,27 @@
+.timer {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.timer-display {
+  font-family: monospace;
+  font-size: 1.25rem;
+  min-width: 5ch;
+  padding: 0.2rem 0;
+
+
+  text-align: center;
+}
+
+.timer-btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0.2rem;
+}
+
+.reset-btn {
+  font-size: 0.9rem;
+  color: #555;
+}

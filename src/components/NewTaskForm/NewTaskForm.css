@@ -1,0 +1,8 @@
+.new-task-minutes,
+.new-task-seconds {
+  width: 4ch;
+  min-width: 4ch;
+  text-align: center;
+  padding: 0.2rem;
+  box-sizing: border-box;
+}
